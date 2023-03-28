@@ -1,0 +1,11 @@
+/home/fidelis/Study/Mensageria/MensageriaC#/bin/Debug/net6.0/publish/MensageriaC#
+/home/fidelis/Study/Mensageria/MensageriaC#/bin/Debug/net6.0/publish/appsettings.Development.json
+/home/fidelis/Study/Mensageria/MensageriaC#/bin/Debug/net6.0/publish/appsettings.json
+/home/fidelis/Study/Mensageria/MensageriaC#/bin/Debug/net6.0/publish/MensageriaC#.dll
+/home/fidelis/Study/Mensageria/MensageriaC#/bin/Debug/net6.0/publish/MensageriaC#.deps.json
+/home/fidelis/Study/Mensageria/MensageriaC#/bin/Debug/net6.0/publish/MensageriaC#.runtimeconfig.json
+/home/fidelis/Study/Mensageria/MensageriaC#/bin/Debug/net6.0/publish/MensageriaC#.pdb
+/home/fidelis/Study/Mensageria/MensageriaC#/bin/Debug/net6.0/publish/Microsoft.OpenApi.dll
+/home/fidelis/Study/Mensageria/MensageriaC#/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/fidelis/Study/Mensageria/MensageriaC#/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/fidelis/Study/Mensageria/MensageriaC#/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,37 @@
+version: "3"
+
+services:
+  mensageria_ts:
+    build: ./MensageriaTS
+    container_name: api_ts
+    command: npm run dev
+    ports:
+      - "4000:4000"
+    volumes:
+      - ./MensageriaTS:/usr/app_ts
+    depends_on:
+      - rabbitmq
+
+  mensageria_csharp:
+    build: ./MensageriaC#
+    container_name: api_csharp
+    command: dotnet /App/MensageriaC#.dll
+    ports: 
+     - "6001:80"
+    volumes:
+      - ./MensageriaC#:/usr/api_csharp
+    depends_on:
+      - rabbitmq
+
+  rabbitmq:
+    image: "rabbitmq:3.8-management-alpine"
+    container_name: rabbitmq
+    hostname: "rabbitmq"
+    ports:
+      - "15672:15672"
+      - "5672:5672"
+    volumes:
+      - "./.rabbitmq_data:/var/lib/rabbitmq/mnesia"
+    environment:
+      - RABBITMQ_DEFAULT_USER=admin
+      - RABBITMQ_DEFAULT_PASS=admin

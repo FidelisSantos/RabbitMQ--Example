@@ -1,0 +1,17 @@
+/home/fidelis/Study/Mensageria/ConsumeC#/obj/Debug/net6.0/ConsumeC#.csproj.AssemblyReference.cache
+/home/fidelis/Study/Mensageria/ConsumeC#/obj/Debug/net6.0/ConsumeC#.GeneratedMSBuildEditorConfig.editorconfig
+/home/fidelis/Study/Mensageria/ConsumeC#/obj/Debug/net6.0/ConsumeC#.AssemblyInfoInputs.cache
+/home/fidelis/Study/Mensageria/ConsumeC#/obj/Debug/net6.0/ConsumeC#.AssemblyInfo.cs
+/home/fidelis/Study/Mensageria/ConsumeC#/obj/Debug/net6.0/ConsumeC#.csproj.CoreCompileInputs.cache
+/home/fidelis/Study/Mensageria/ConsumeC#/bin/Debug/net6.0/ConsumeC#
+/home/fidelis/Study/Mensageria/ConsumeC#/bin/Debug/net6.0/ConsumeC#.deps.json
+/home/fidelis/Study/Mensageria/ConsumeC#/bin/Debug/net6.0/ConsumeC#.runtimeconfig.json
+/home/fidelis/Study/Mensageria/ConsumeC#/bin/Debug/net6.0/ConsumeC#.dll
+/home/fidelis/Study/Mensageria/ConsumeC#/bin/Debug/net6.0/ConsumeC#.pdb
+/home/fidelis/Study/Mensageria/ConsumeC#/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/fidelis/Study/Mensageria/ConsumeC#/obj/Debug/net6.0/ConsumeC#.csproj.CopyComplete
+/home/fidelis/Study/Mensageria/ConsumeC#/obj/Debug/net6.0/ConsumeC#.dll
+/home/fidelis/Study/Mensageria/ConsumeC#/obj/Debug/net6.0/refint/ConsumeC#.dll
+/home/fidelis/Study/Mensageria/ConsumeC#/obj/Debug/net6.0/ConsumeC#.pdb
+/home/fidelis/Study/Mensageria/ConsumeC#/obj/Debug/net6.0/ConsumeC#.genruntimeconfig.cache
+/home/fidelis/Study/Mensageria/ConsumeC#/obj/Debug/net6.0/ref/ConsumeC#.dll
